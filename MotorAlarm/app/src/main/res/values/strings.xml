@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotorAlarm</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_title">Motor Alarm</string>
+    <string name="deviceid_text">Device:</string>
+    <string name="otherphone_text">Other phone number</string>
+    <string name="deviceactive_text">Active:</string>
+    <string name="deviceon_text">On:</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="edit">edit</string>
+    <string name="done">done</string>
+
+</resources>

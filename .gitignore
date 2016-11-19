@@ -1,0 +1,28 @@
+.classpath
+.project
+local.properties
+**/gen/
+**/bin/
+
+**/org.eclipse.jdt.core.prefs
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Android Studio
+.idea
+.gradle
+**/build/

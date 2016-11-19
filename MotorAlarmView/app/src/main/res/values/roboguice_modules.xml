@@ -1,0 +1,7 @@
+<resources>
+
+    <string-array name="roboguice_modules">
+        <item name="module">com.loqli.motoralarm.robo.MyModule</item>
+    </string-array>
+
+</resources>

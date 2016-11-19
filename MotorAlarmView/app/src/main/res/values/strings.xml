@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_title">Motor Alarm</string>
+    <string name="deviceid_text">Device:</string>
+    <string name="devicephone_text">Device phonenr:</string>
+    <string name="deviceactive_text">Track GPS:</string>
+    <string name="deviceon_text">Device:</string>
+    <string name="siren_on_text">Siren:</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="edit">edit</string>
+    <string name="done">done</string>
+
+    <string name="app_name">MotorAlarmView</string>
+    <string name="prod_url_string">http://yourserver.example.com:9010/motoralarm/</string>
+    <string name="test_url_string">http://192.168.1.254:9010/motoralarm/</string>
+    <string name="base_url_string">@string/prod_url_string</string>
+    <string name="activate">activate</string>
+
+    <!-- seconds -->
+    <integer name="interval">120</integer>
+
+</resources>
